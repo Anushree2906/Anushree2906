@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anushree2906
 - 👀 I’m interested in Datascience,Machine Learning
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning CSE
 - 😄 Pronouns: she/her
 
 <!---
